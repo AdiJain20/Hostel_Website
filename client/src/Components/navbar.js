@@ -92,7 +92,7 @@ const Navbar = () => {
                   setOpen(false);
                 }}
               >
-                SERVICES
+                SERVICE
               </li>
               <li
                 onClick={() => {
