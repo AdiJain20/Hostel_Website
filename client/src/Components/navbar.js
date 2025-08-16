@@ -23,7 +23,7 @@ const Navbar = () => {
                 navigate("/services", { replace: true });
               }}
             >
-              SERVICE
+              SERVICES
             </li>
             <li
               onClick={() => {
@@ -92,7 +92,7 @@ const Navbar = () => {
                   setOpen(false);
                 }}
               >
-                SERVICE
+                SERVICES
               </li>
               <li
                 onClick={() => {
